@@ -11,6 +11,7 @@
 # Generated files
 bin/
 gen/
+Demo_ContactAsyncQueryHandler.iml/
 
 # Gradle files
 .gradle/
